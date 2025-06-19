@@ -7,7 +7,7 @@ This project delivers a **robust, scalable, and fully automated solution** for b
 The core functionality is driven by a Python-based Lambda function that dynamically discovers EBS volumes in an "in-use" state across every AWS region, and creates snapshots for each. These snapshots are **tagged with metadata** for easier tracking and organization. The entire workflow is scheduled to run at user-defined intervals using EventBridge rules, and the result of each run is emailed to administrators via Amazon SNS.
 
 This system is ideal for cloud engineers, DevOps teams, and system administrators looking to automate disaster recovery, reduce manual workload, and achieve consistent daily backups for business-critical infrastructure.
-
+![](https://github.com/gaurav3972/terraform-ebs-snapshot/blob/main/IMAGES/1.00.png)
 ---
 
 ## ✅ Key Features:
