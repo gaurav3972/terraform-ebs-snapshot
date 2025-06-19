@@ -1,5 +1,3 @@
-# EBS-Backup-Automation-via-Terraform
-
 # 🌌 Automated Multi-Region EBS Snapshot Backup Using Lambda & Terraform
 
 ## 📘 Project Description:
@@ -189,4 +187,3 @@ MIT License © 2025 gaurav3972
 
 ---
 
-Feel free to fork, contribute, or suggest improvements!
